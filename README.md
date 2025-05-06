@@ -20,7 +20,7 @@ This project is a state-of-the-art chatbot that provides current weather informa
 
 ### 1. Clone the Repository
 ```sh
-git clone <your-repo-url>
+git clone https://github.com/21kNabeelUddin/WeatherBot-using-DialogFlow
 cd weather_bot/api
 ```
 
